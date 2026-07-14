@@ -1,1 +1,3 @@
 This is a test message i wrote from my wsl terminal
+
+This is the 2nd line i added

@@ -14,4 +14,6 @@ This is rebase test statement i added on github
 
 This is a change to test rebase command
 
+This is the line i added to revert the commits
+
 .
